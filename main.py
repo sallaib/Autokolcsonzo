@@ -10,8 +10,8 @@ def inicializalas():
 
     # 3 autó hozzáadása
     auto1 = Szemelyauto("ABC-123", "Toyota Yaris", 5000, 5)
-    auto2 = Szemelyauto("DEF-456", "Ford Focus", 6000, 5)
-    auto3 = Teherauto("GHI-789", "Mercedes CLA", 10000, 2)
+    auto2 = Szemelyauto("DEF-456", "Mercedes CLA", 9000, 5)
+    auto3 = Teherauto("GHI-789", "Mercedes Sprinter ", 10000, 2)
 
     kolcsonzo.auto_hozzaadasa(auto1)
     kolcsonzo.auto_hozzaadasa(auto2)
