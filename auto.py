@@ -1,4 +1,4 @@
-# auto.py aa
+# auto.py
 from abc import ABC, abstractmethod
 
 class Auto(ABC):
